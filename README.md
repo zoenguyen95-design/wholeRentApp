@@ -1,6 +1,13 @@
 # project_faceid3
 
-A new Flutter project.
+
+
+This Flutter project is an online platform to facilitate the rental process, providing a comprehensive solution to connect landlords and tenants, 
+enabling communication, management and payment in a secure environment.
+
+The platform will allow tenants to easily find rental accommodation in their desired location, through an 
+intuitive searching and filtering system. Landlords will be able to list properties and manage their tenancy 
+agreements, including the collection of rent payments and other fees.
 
 ## Getting Started
 
